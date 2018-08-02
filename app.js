@@ -1,5 +1,5 @@
 const express = require('express')
-const oa = require('oa')
+const os = require('os')
 
 const app = express()
 const hostServer = ['nk']
