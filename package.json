@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/sdoasddd0921/do-server#readme",
   "dependencies": {
+    "cors": "^2.8.4",
     "express": "^4.16.3",
     "gulp": "^3.9.1",
     "gulp-sftp": "^0.1.5"
