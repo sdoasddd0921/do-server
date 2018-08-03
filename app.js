@@ -2,7 +2,7 @@ const express = require('express')
 const os = require('os')
 
 const app = express()
-const hostServer = ['nk']
+const hostServer = ['am']
 
 const isServer = hostServer.indexOf(os.hostname()) !== -1
 const port = isServer ? 80 : 3032
